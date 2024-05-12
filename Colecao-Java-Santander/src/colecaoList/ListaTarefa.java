@@ -34,7 +34,9 @@ public class ListaTarefa {
 	}
 	
 	public void obterDescricaoTarefa() {
-		System.out.println(tarefaList);
+		System.out.println(tarefaList	);
 	}
+	
+	
 
 }
