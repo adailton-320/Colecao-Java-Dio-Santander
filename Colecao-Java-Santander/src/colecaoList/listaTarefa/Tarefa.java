@@ -1,4 +1,4 @@
-package colecaoList;
+package colecaoList.listaTarefa;
 
 public class Tarefa {
 	
